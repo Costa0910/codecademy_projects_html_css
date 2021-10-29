@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:slategray;
+}
+
+.weekend th, tbody tr > td, tfoot tr> td{
+    border: 2px dotted black;
+    width: 20%;
+    height: 15px;
+    border-collapse: collapse;
+    padding-top: 25px;
+    margin-top: 25 auto;
+    text-align: center;
+    }
+
+table{
+    border: 2px solid rgb(8, 22, 34);
+    margin: 10px auto;
+    width: 20%;
+    height: 15px;
+    border-collapse: collapse;
+    padding-top: 100px;
+    margin-top: 50 auto;
+}
+
+h1{
+    font-family: monospace;
+    border: 0px solid black;
+    font-weight: bold;
+    font-size: 4em;
+    background-color: lavender;
+    opacity: 60%;
+}
+.weekend th, h2{
+    padding-bottom: 11px;
+    padding-right: 10px;
+    background-color: #696969;
+    color: wheat;
+}
